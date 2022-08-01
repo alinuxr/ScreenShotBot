@@ -57,3 +57,8 @@ docker run -it --rm dockerimage
 ```
 
 Also TOKEN are should be saved in .env
+
+## Examples
+
+---
+Also you can see examples of working Telegram Bot in directory /bot_images
