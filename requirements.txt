@@ -1,0 +1,10 @@
+pyTelegramBotAPI==4.6.0
+lxml==4.9.1
+img2pdf==0.4.4
+regex==2022.7.25
+selenium==4.3.0
+webdriver-manager==3.8.2
+python-whois==0.8.0
+python-dotenv==0.20.0
+sqlalchemy==1.4.39
+psycopg2==2.9.3

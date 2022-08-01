@@ -1,0 +1,4 @@
+# ignore all logs
+*.log
+# dotenv environment variables file
+.env

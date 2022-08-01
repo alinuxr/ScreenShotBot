@@ -1,0 +1,5 @@
+2022-07-29 15:03:02,633 - __main__ - DEBUG - Debug message
+2022-07-29 15:03:02,639 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2022-07-29 15:03:06,837 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot5420429554:AAE0p8FHEY0-UNlqyK2Z8dQvPTuWASyTcrY/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 355
+2022-07-29 15:03:06,855 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2022-07-29 15:03:07,085 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot5420429554:AAE0p8FHEY0-UNlqyK2Z8dQvPTuWASyTcrY/sendMessage?chat_id=273041198&text=Choose+your+language&reply_markup=%7B%22inline_keyboard%22%3A+%5B%5B%7B%22text%22%3A+%22English%22%2C+%22callback_data%22%3A+%22eng%22%7D%2C+%7B%22text%22%3A+%22Russian%22%2C+%22callback_data%22%3A+%22rus%22%7D%5D%5D%7D HTTP/1.1" 200 392
